@@ -1,0 +1,10 @@
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\bin\Debug\EvolentHeath.Domain.dll.config
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\bin\Debug\EvolentHeath.Domain.dll
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\bin\Debug\EvolentHeath.Domain.pdb
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\bin\Debug\EntityFramework.dll
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\bin\Debug\EntityFramework.xml
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\obj\Debug\EvolentHeath.Domain.csprojResolveAssemblyReference.cache
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\obj\Debug\EvolentHeath.Domain.dll
+c:\users\negihema\documents\visual studio 2015\Projects\EvolentHealth.WebAPI\EvolentHeath.Domain\obj\Debug\EvolentHeath.Domain.pdb
